@@ -1,7 +1,7 @@
 
 # Hi, My name is Armm. 🐻
 
-I have **four years** experience in **web develepment**.
+I have **fives years** experience in **web development**.
 
 ## 💻 Technology & Tools
 ![](https://img.shields.io/badge/OS-MacOS-informational?style=flat-square&logo=Apple&color=f8f8f8)
